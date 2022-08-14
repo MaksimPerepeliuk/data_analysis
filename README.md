@@ -23,7 +23,7 @@
 					<li>Выявить регионы Российской Федерации, которые отличаются от общих тенденций по половозрастным признакам преступников и потерпевших</li>
 				</ul>
 			</td>
-			<td>pandas, numpy, matplotlib, scipy, seaborn, когортный анализ, выбор статистического критерия, проверка гипотез</td>
+			<td>pandas, numpy, matplotlib, scipy, seaborn, когортный анализ, проверка гипотез</td>
 		</tr>
 		<tr>
 			<td><b>2</b></td>
@@ -44,14 +44,14 @@
 			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ab_test_analysis_game_currency_spending/ab_test_gamedev.ipynb" target="_blank"><b>Анализ результатов A/B теста расходов внутриигровой валюты</b></a></td>
 			<td>Игра содержит особое событие – ивент, для прохождения которого пользователи могут тратить внутриигровую валюту. Группа дизайнеров решила поменять вид окошка покупки ивентовых продуктов. Чтобы оценить результат нововведения, провели АБ тест</td>
 			<td><ul><li>Исследовать какая из A/B групп лучше себя показала по результатам проведенного теста</li></ul></td>
-			<td>pandas, numpy, matplotlib, scipy, seaborn, A/B тестирование, выбор статистического критерия, проверка гипотез</td>
+			<td>pandas, numpy, matplotlib, scipy, seaborn, A/B тестирование, проверка гипотез</td>
 		</tr>
 		<tr>
 			<td><b>4</b></td>
 			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ab_test_website_design/ab_test_website_design.ipynb" target="_blank"><b>A/B тестирование нового дизайна продающей страницы сайта</b></a></td>
 			<td>На сайте по продаже книг есть раздел с предложениями о покупке набора сразу из нескольких книг по более выгодной цене, чем при покупке их по отдельности.<br> Дизайнером сайта было предложено изменить эту страницу, так как по его мнению она слишком громоздкая и отпугивает некоторых потенциальных покупателей</td>
 			<td><ul><li>Рассчет размера выборки, по достижению которой мы остановим тест;</li><li>Анализ результатов A/B тестирования и проверка гипотез о значимой разнице конверсий в группах теста.</li></ul></td>
-			<td>pandas, numpy, seaborn, statsmodels, A/B тестирование, выбор статистического критерия, проверка гипотез</td>
+			<td>pandas, numpy, seaborn, statsmodels, A/B тестирование, проверка гипотез</td>
 		</tr>
 		<tr>
 			<td><b>5</b></td>
@@ -64,6 +64,18 @@
 				</ul>
 			</td>
 			<td>pandas, numpy, matplotlib, когортный анализ, продуктовый анализ</td>
+		</tr>
+		<tr>
+			<td><b>6</b></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/retention_rate_store_app/retention_rate_store_app.ipynb" target="_blank"><b>Влияние погоды на количество голов в матчах Английской Премьер Лиги</b></a></td>
+			<td>Нам предстоит исследовать влияние погоды на количество голов в матчах АПЛ. Для этого был написан парсер, для сбора данных с сайта футбольной статистики <a href="https://www.nowgoal6.com/">https://www.nowgoal6.com/</a> за сезоны 2018-2019, 2019-2020, 2020-2021, 2021-2022 <p>Ссылка на парсер: <a href="https://github.com/MaksimPerepeliuk/ng_football_weather_scraper">https://github.com/MaksimPerepeliuk/ng_football_weather_scraper</a></p></td>
+			<td>
+				<ul>
+					<li>Различие количества голов между матчами проходившими при плохой и нормальной погоде</li>
+					<li>Различие количества голов между матчами проходившими в разные интервалы температур воздуха</li>
+				</ul>
+			</td>
+			<td>pandas, numpy, matplotlib, seaborn, scipy, множественные проверки гипотез</td>
 		</tr>
 	</tbody>
 </table>
