@@ -67,7 +67,7 @@
 		</tr>
 		<tr>
 			<td><b>6</b></td>
-			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/retention_rate_store_app/retention_rate_store_app.ipynb" target="_blank"><b>Влияние погоды на количество голов в матчах Английской Премьер Лиги</b></a></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/football_weather_analysis/football_weather_analysis.ipynb" target="_blank"><b>Влияние погоды на количество голов в матчах Английской Премьер Лиги</b></a></td>
 			<td>Нам предстоит исследовать влияние погоды на количество голов в матчах АПЛ. Для этого был написан парсер, для сбора данных с сайта футбольной статистики <a href="https://www.nowgoal6.com/">https://www.nowgoal6.com/</a> за сезоны 2018-2019, 2019-2020, 2020-2021, 2021-2022 <p>Ссылка на парсер: <a href="https://github.com/MaksimPerepeliuk/ng_football_weather_scraper">https://github.com/MaksimPerepeliuk/ng_football_weather_scraper</a></p></td>
 			<td>
 				<ul>
