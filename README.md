@@ -77,5 +77,19 @@
 			</td>
 			<td>pandas, numpy, matplotlib, seaborn, scipy, множественные проверки гипотез</td>
 		</tr>
+		<tr>
+			<td><b>7</b></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ltv_calc_and_forecasting/ltv_calc_and_forecasting.ipynb" target="_blank"><b>Исследование методов расчета и прогнозирования Customer Lifetime Value</b></a></td>
+			<td>Существует множество способов расчета и прогнозирования метрики Customer Lifetime Value (CLV) - пожизненной ценности клиента. В данном исследовании мы попробуем рассчитать и спрогнозировать данную метрику несколькими способами</td>
+			<td>
+				<ul>
+					<li>Расчет CLV с помощью выручки</li>
+					<li>Расчет CLV с помощью валовой прибыли</li>
+					<li>Прогнозирование CLV на основе анализа графика и аппроксимации функции, описывающей связь на данном графике</li>
+					<li>Прогнозирование CLV с помощью алгоритмов регрессии</li>
+				</ul>
+			</td>
+			<td>pandas, numpy, matplotlib, scipy, sklearn, CatBoost</td>
+		</tr>
 	</tbody>
 </table>
