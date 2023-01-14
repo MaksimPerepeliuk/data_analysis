@@ -91,5 +91,18 @@
 			</td>
 			<td>pandas, numpy, matplotlib, scipy, sklearn, CatBoost</td>
 		</tr>
+		<tr>
+			<td><b>8</b></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ltv_calc_and_forecasting/ltv_calc_and_forecasting.ipynb" target="_blank"><b>Создание и тестирование функции разделения пользователей на группы</b></a></td>
+			<td>Для того чтобы мы могли проводить A/B тестирование, нам нужна функция, которая будет разделять пользователей на группы</td>
+			<td>
+				<ul>
+					<li>Написать функцию разделения пользователей на произвольное количество групп</li>
+					<li>Расчет CLV с помощью валовой прибыли</li>
+					<li>Протестировать функцию и сделать вывод о корректности деления пользователей</li>
+				</ul>
+			</td>
+			<td>pandas, numpy, seaborn, scipy</td>
+		</tr>
 	</tbody>
 </table>
