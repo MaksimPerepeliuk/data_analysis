@@ -93,7 +93,7 @@
 		</tr>
 		<tr>
 			<td><b>8</b></td>
-			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ltv_calc_and_forecasting/ltv_calc_and_forecasting.ipynb" target="_blank"><b>Создание и тестирование функции разделения пользователей на группы</b></a></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/split_func_test/split_func_test.ipynb" target="_blank"><b>Создание и тестирование функции разделения пользователей на группы</b></a></td>
 			<td>Для того чтобы мы могли проводить A/B тестирование, нам нужна функция, которая будет разделять пользователей на группы</td>
 			<td>
 				<ul>
@@ -105,7 +105,7 @@
 		</tr>
 		<tr>
 			<td><b>9</b></td>
-			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ltv_calc_and_forecasting/ltv_calc_and_forecasting.ipynb" target="_blank"><b>Сегментирование клиентов онлайн магазина с помощью RFM-Score</b></a></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/clients_clustering_for_marketing/clients_clustering_for_marketing.ipynb" target="_blank"><b>Сегментирование клиентов онлайн магазина с помощью RFM-Score</b></a></td>
 			<td>Есть ограниченный бюджет для проведения рекламной компании. Для экономии бюджета и увеличения эффективности компании, требуется выделить сегменты клииентов, наиболее лояльных к нашему онлайн магазину, на которых и будет нацелена рекламная компания</td>
 			<td>
 				<ul>
