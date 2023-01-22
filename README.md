@@ -103,5 +103,17 @@
 			</td>
 			<td>pandas, numpy, seaborn, scipy</td>
 		</tr>
+		<tr>
+			<td><b>9</b></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ltv_calc_and_forecasting/ltv_calc_and_forecasting.ipynb" target="_blank"><b>Сегментирование клиентов онлайн магазина с помощью RFM-Score</b></a></td>
+			<td>Есть ограниченный бюджет для проведения рекламной компании. Для экономии бюджета и увеличения эффективности компании, требуется выделить сегменты клииентов, наиболее лояльных к нашему онлайн магазину, на которых и будет нацелена рекламная компания</td>
+			<td>
+				<ul>
+					<li>Выгрузить необходимые данные из БД</li>
+					<li>Провести RFM анализ и на его основе выделить сегменты клиентов, на которые будет нацелена рекламная компания</li>
+				</ul>
+			</td>
+			<td>pandas, numpy, matplotlib, sqlalchemy, PostgreSQL</td>
+		</tr>
 	</tbody>
 </table>
