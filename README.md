@@ -105,7 +105,7 @@
 		</tr>
 		<tr>
 			<td><b>9</b></td>
-			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/clients_clustering_for_marketing/clients_clustering_for_marketing.ipynb" target="_blank"><b>Сегментирование клиентов онлайн магазина с помощью RFM-Score</b></a></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/rfm_segmentation_for_marketing/rfm_segmentation_for_marketing.ipynb" target="_blank"><b>Сегментирование клиентов онлайн магазина с помощью RFM-Score</b></a></td>
 			<td>Есть ограниченный бюджет для проведения рекламной компании. Для экономии бюджета и увеличения эффективности компании, требуется выделить сегменты клииентов, наиболее лояльных к нашему онлайн магазину, на которых и будет нацелена рекламная компания</td>
 			<td>
 				<ul>
