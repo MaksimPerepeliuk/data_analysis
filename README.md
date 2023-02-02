@@ -117,7 +117,7 @@
 		</tr>
 		<tr>
 			<td><b>10</b></td>
-			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/rfm_segmentation_for_marketing/rfm_segmentation_for_marketing.ipynb" target="_blank"><b>Кластеризация пользователей с помощью алгоритмов обучения без учителя</b></a></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/ml_clustering_online_app_users/ml_clustering_online_app_users.ipynb" target="_blank"><b>Кластеризация пользователей с помощью алгоритмов обучения без учителя</b></a></td>
 			<td>В нашем распоряжении база данных онлайн магазина, где хранятся данные о пользователях зарегистрировавшихся в приложении магазина, данные о покупках и сессиях. Нам требуется провести кластеризацию пользователей для дальнейшего выделения целевых групп в маркетинговых активностях</td>
 			<td>
 				<ul>
