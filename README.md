@@ -128,5 +128,17 @@
 			</td>
 			<td>pandas, numpy, matplotlib, seaborn, plotly, sqlalchemy, PostgreSQL, Sklearn (K-means, PCA), scipy (hierarchy clustering)</td>
 		</tr>
+		<tr>
+			<td><b>11</b></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/aa_ab_test_with_bootstrap/aa_ab_test_with_bootstrap.ipynb" target="_blank"><b>A/A и A/B тестирование с помощью bootstrap</b></a></td>
+			<td>Отделом разработки был интегрирован более новый видеоплеер в мобильное приложение. Теперь нам предстоит удостовериться, что новый видеоплеер положительно повлияет на лояльность пользователей. Для этого были сформированы выборки для A/A и A/B тестирования. В качестве целевого показателя решено использовать медианную продолжительность сессий пользователей в мобильном приложении.</td>
+			<td>
+				<ul>
+					<li>Проведение A/A теста</li>
+					<li>Проверка гипотезы о значимой разнице медианной продолжительности сессий, в A B выборках</li>
+				</ul>
+			</td>
+			<td>pandas, numpy, matplotlib, scipy</td>
+		</tr>
 	</tbody>
 </table>
