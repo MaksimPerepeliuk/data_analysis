@@ -154,7 +154,7 @@
 		</tr>
 		<tr>
 			<td><b>13</b></td>
-			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/unit_economic_calc_excel/unit_economic_calc.xlsx"target="_blank"><b>Калькулятор юнит-экономики в Excel</b></a></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/unit_economic_calc_excel"target="_blank"><b>Калькулятор юнит-экономики в Excel</b></a></td>
 			<td>С помощью postgreSQL провести когортный анализ данных онлайн магазина</td>
 			<td>
 				<ul>
