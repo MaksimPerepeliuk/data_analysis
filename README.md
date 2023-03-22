@@ -140,5 +140,17 @@
 			</td>
 			<td>pandas, numpy, matplotlib, scipy</td>
 		</tr>
+		<tr>
+			<td><b>12</b></td>
+			<td><a href="https://github.com/MaksimPerepeliuk/data_analysis/blob/main/cohort_analysis_sql/cohort_analysis_sql.ipynb" target="_blank"><b>Когортный анализ онлайн магазина с помощью PostgreSQL</b></a></td>
+			<td>С помощью postgreSQL провести когортный анализ данных онлайн магазина</td>
+			<td>
+				<ul>
+					<li>Рассчитать коэффициент конверсии в первую покупку по когортам</li>
+					<li>Рассчитать коэффициент удержания пользователей по когортам</li>
+				</ul>
+			</td>
+			<td>pandas, seaborn, PostgreSQL, sqlalchemy</td>
+		</tr>
 	</tbody>
 </table>
