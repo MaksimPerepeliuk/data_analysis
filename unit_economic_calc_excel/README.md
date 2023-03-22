@@ -7,3 +7,5 @@
 - Расчет LTV на основе валовой прибыли;
 - Расчет ROMI;
 - Расчет метрик по относительным изменениям.
+
+<img title="unit_economic_calc_excel" alt="Alt text" src="./unit_calc_dashboard_img.png">
